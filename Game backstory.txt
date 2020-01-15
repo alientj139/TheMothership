@@ -1,0 +1,21 @@
+Storyline to my python game
+
+Back Story
+
+The main character(Terry) has recovered from an accident, doctors has discovered that the force suffered to his head has removed his memory,
+(career and achievements). Terry has been cleared from Hospital, doctors has stated that he is healthy and that he will begin to recover his memory,
+once he walks around the house and notices all the things he has achieved, maybe the fact that he is at home would bring back his memory.
+
+Aim of the game
+Playing as the character Terry, the objective of the game is to help Terry recover his memory via collecting parts of his career that has lead him up until now,
+this not only gives you insight as his helper, but allows terry to get back to work as quick as possible and become a baller.
+
+Rage quit obstacles
+Although healthy, he still suffers flashback of the crash and can somewhat recall what happened, these memories are to be avoided because it could erase all
+the progress he has made, who knows maybe even kill him (jk im not that horrible, but seriously though dont let the car crash memories get you, or you will
+reset the game and you will start from the beginning)
+
+Setting
+Well if you havent noticed by now, the setting of the game is within his home
+
+
